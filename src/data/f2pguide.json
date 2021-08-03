@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Phoenix",
+        "units": [
+            "Hera Syndulla",
+            "Kanan Jarrus",
+            "Ezra Bridger",
+            "Garazeb \"Zeb\" Orrelios",
+            "Chopper"
+        ],
+        "target": "Grand Admiral Thrawn"
+    }
+]
